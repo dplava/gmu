@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~23~23~77568~102933</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps~23~23/120/C0225B2F4.jpg</edm:preview>
+   <dcterms:created>1936/1937</dcterms:created>
+   <dcterms:creator>Seattle Star</dcterms:creator>
+   <dcterms:subject>Federal Theatre Project (U.S.)</dcterms:subject>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:medium>Clippings</dcterms:medium>
+   <dcterms:extent>7 pages</dcterms:extent>
+   <dcterms:title>Newspaper clippings</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:description>Seven newspaper clippings from the Seattle Star and Seattle Post-Intelligencer featuring reviews for the Seattle Negro Unit of the Federal Theatre Project productions of Lysistrata, Natural Man, An Evening with Dunbar, and Stevedore in Seattle, Washington</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:language>en</dcterms:language>
+   <dcterms:isPartOf>Federal Theatre Project collection</dcterms:isPartOf>
+</mdRecord>

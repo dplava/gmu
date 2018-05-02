@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~23~23~32384~101627</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps-23-NA/1069/0001.jpg</edm:preview>
+   <dcterms:created>1938-06-09</dcterms:created>
+   <dcterms:creator>Federal Theatre Project (U.S.)</dcterms:creator>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:medium>Scrapbooks</dcterms:medium>
+   <dcterms:title>Caravan theatre and portable frames</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Compiled booklet featuring brief descriptions, mechanical drawings, and photographs of portable theatres used by the New York City Federal Theatre Project</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:language>en</dcterms:language>
+   <dcterms:isPartOf>Federal Theatre Project collection</dcterms:isPartOf>
+</mdRecord>

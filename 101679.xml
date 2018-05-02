@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~23~23~34262~101679</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps-23-NA/1074/C0218B01F02_01.jpg</edm:preview>
+   <dcterms:created>1976-05-30</dcterms:created>
+   <dcterms:creator>George Mason University</dcterms:creator>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:temporal>New Deal, 1933-1939</dcterms:temporal>
+   <dcterms:medium>Excerpts</dcterms:medium>
+   <dcterms:extent>8.75 x 11.25 in</dcterms:extent>
+   <dcterms:title>Excerpt from Eda Edson oral history interview</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:description>Excerpt from a transcript of an oral history interview with Eda Edson conducted by Diane Bowers. This page consists of quotes from the interview as well as a photocopy of a newspaper review of the play "Follow the Parade" from May 23, 1936</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:language>en</dcterms:language>
+   <dcterms:isPartOf>Federal Theatre Project collection</dcterms:isPartOf>
+</mdRecord>

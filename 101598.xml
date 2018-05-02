@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~23~23~32350~101598</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps-23-NA/1066/C0002_FTP595p3.jpg</edm:preview>
+   <dcterms:created>1935/1939</dcterms:created>
+   <dcterms:creator>Federal Theatre Project (U.S.)</dcterms:creator>
+   <dcterms:subject>Circus</dcterms:subject>
+   <dcterms:medium>Microfiche</dcterms:medium>
+   <dcterms:medium>Interiors</dcterms:medium>
+   <dcterms:extent>35 mm</dcterms:extent>
+   <dcterms:title>FTP Circus interior image</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Interior shot of Stauch's Arena, Coney Island during a FTP Circus</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Federal Theatre Project collection</dcterms:isPartOf>
+</mdRecord>

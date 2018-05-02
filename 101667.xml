@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~23~23~33596~101667</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps-23-NA/1070/C0205B069F008_02.jpg.jpg</edm:preview>
+   <dcterms:created>1937-03-02</dcterms:created>
+   <dcterms:creator>Federal Theatre Project (U.S.)</dcterms:creator>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Actors</dcterms:subject>
+   <dcterms:spatial>Portland (Or.)</dcterms:spatial>
+   <dcterms:temporal>New Deal, 1933-1939</dcterms:temporal>
+   <dcterms:medium>Black-and-white photographs</dcterms:medium>
+   <dcterms:medium>Group portraits</dcterms:medium>
+   <dcterms:extent>8 x 10 in</dcterms:extent>
+   <dcterms:title>Sloping West, Portland, Oregon</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Production photograph. This scene depicts a Spanish-Ethiopian bullfight. With an oversize razor, Lee Grigsby, African-American singer and dancer with the Oregon Federal Theatre, tames "Ol' Snorty" in the three-act musical comedy "Sloping West"</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Federal Theatre Project collection</dcterms:isPartOf>
+</mdRecord>
