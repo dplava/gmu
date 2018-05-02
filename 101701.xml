@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~23~23~34786~101701</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps~23~23/120/C0229B04F33_04.jpg</edm:preview>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:medium>Playscripts</dcterms:medium>
+   <dcterms:extent>8.5 x 11 in</dcterms:extent>
+   <dcterms:title>Nancy Hanks, Bondswoman (script 4)</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:description>16 page typewritten playscript for the character Abraham in the play Nancy Hanks, Bondswoman. The script includes handwritten notes</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:language>en</dcterms:language>
+   <dcterms:isPartOf>Federal Theatre Project collection</dcterms:isPartOf>
+</mdRecord>
