@@ -6,6 +6,7 @@
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>GMU101678</dcterms:identifier>
    <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~23~23~34244~101678</edm:isShownAt>
    <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps-23-NA/1074/C0205B69F19_01.jpg</edm:preview>
    <dcterms:created>1939</dcterms:created>
