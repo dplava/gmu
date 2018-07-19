@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>GMU102856</dcterms:identifier>
+   <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~36~36~76321~102856</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps-36-NA/1137/0001.jpg</edm:preview>
+   <dcterms:created>2002</dcterms:created>
+   <dcterms:creator>George Mason University</dcterms:creator>
+   <dcterms:subject>College yearbooks</dcterms:subject>
+   <dcterms:subject>George Mason University</dcterms:subject>
+   <dcterms:spatial>Fairfax County (Va.)</dcterms:spatial>
+   <dcterms:medium>Books</dcterms:medium>
+   <dcterms:medium>Yearbooks</dcterms:medium>
+   <dcterms:extent>11 in. x 8.5 in. x 2/8 in.</dcterms:extent>
+   <dcterms:title>Senior Expressions 2002</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research
+						Center</dcterms:provenance>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:language>en</dcterms:language>
+   <dcterms:isPartOf>George Mason University Yearbook collection</dcterms:isPartOf>
+</mdRecord>
