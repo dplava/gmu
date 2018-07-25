@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/8511</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/8511</edm:isShownAt>
+   <edm:preview>http://scrc.gmu.edu/img/DPLA/speaker.png</edm:preview>
+   <dcterms:created>1982-09-05</dcterms:created>
+   <dcterms:creator>George Mason University. Office of University Relations</dcterms:creator>
+   <dcterms:subject>Conflict management</dcterms:subject>
+   <dcterms:medium>Audiotapes</dcterms:medium>
+   <dcterms:medium>Sound recording</dcterms:medium>
+   <dcterms:medium>Talk shows</dcterms:medium>
+   <dcterms:extent>5", 1/4" tape</dcterms:extent>
+   <dcterms:extent>18 minutes, 58 seconds</dcterms:extent>
+   <dcterms:title>George Mason University's program in conflict management</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:description>The show topic is the conflict management program at George Mason University</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Sound</dcterms:type>
+   <dcterms:isPartOf>George Mason University "Frankly Speaking" radio show collection</dcterms:isPartOf>
+</mdRecord>
