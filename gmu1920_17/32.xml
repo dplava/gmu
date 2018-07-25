@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/32</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/32</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/32/image15a.jpg</edm:preview>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
+   <dcterms:title>Street  Scene with Mexican - American Men, Southwest United States,  ca. 1893</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>This photograph shows a street scene in the American Southwest, possibly Texas, Arizona, or New Mexico ca 1893. Three Mexican-American men in traditional mexican dress look at the photographer. One wears a poncho or blanket draped around him and a kerchief around his face. Another at left peers from behind the wall of a building. A third, in the background, is holding a rope Another man, an Anglo-American in a black suit and hat, appears to be speaking with someone just outside the frame. Image faded to  yellowish tan with darker tan in the left of photo. Circular marks in top and bottom left and a heavy hoizontal mark is in bottom center of photo</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Southwestern United States Photograph Collection</dcterms:isPartOf>
+</mdRecord>

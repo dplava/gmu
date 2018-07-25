@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/111</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/111</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/111/image28.jpg</edm:preview>
+   <dcterms:subject>Architecture</dcterms:subject>
+   <dcterms:subject>Missions, Spanish</dcterms:subject>
+   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:temporal>Nineteenth century</dcterms:temporal>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
+   <dcterms:title>Mission-Type Building, Southwest United States, ca. 1893</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>This photgraph portrays a Spanish mission in the American southwest, ca 1893. Four individuals are seen at various locations in the front of the building. A cross sits atop a small fenced mound in the front of the mission. Image slightly faded to yellow</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Southwestern United States Photograph Collection</dcterms:isPartOf>
+</mdRecord>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/29</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/29</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/29/Image12.jpg</edm:preview>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:spatial>Arizona</dcterms:spatial>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
+   <dcterms:title>San Xavier Hotel, Tucson, Arizona, ca. 1893</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>This photograph shows the former Hotel San Xavier in Tucson Arizona, ca 1893. In foreground are cacti, trees, and a white picket fence, while the hotel is seen in background. Another smaller building is at left. Overall image faded to faint yellowish tan in center and yellw at right and left. At left is a darker brown portion Slight marks are in lower right of the photo</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Southwestern United States Photograph Collection</dcterms:isPartOf>
+</mdRecord>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/52</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/52</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/52/image25.jpg</edm:preview>
+   <dcterms:subject>Hotels</dcterms:subject>
+   <dcterms:subject>Architecture, American</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:temporal>Nineteenth century</dcterms:temporal>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
+   <dcterms:title>Hotel I (name and location unidentified), ca. 1893</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>This photograph shows the front elevation of a "grand hotel"-type building. The name and location of the building are unknown (possibly in the American west or southwest) ca 1893. Image faded to yellowish tan with crescent-shaped yellow faded sections at lower left and right sides of photo</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Southwestern United States Photograph Collection</dcterms:isPartOf>
+</mdRecord>

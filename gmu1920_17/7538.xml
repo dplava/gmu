@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/7538</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/7538</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/7538/22.tif.jpg</edm:preview>
+   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:title>Street scene with Mexican-American Man, Southwest United States,  ca. 1893</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>This photograph shows a young man posed on a street corner. Several other young men or children stand behind him. The building in the distance is labeled as an administrative building. Though the location is unknown, it is believed to be in the American southwest ca 1893 in either Texas, Arizona, or New Mexico</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Southwestern United States Photograph Collection</dcterms:isPartOf>
+</mdRecord>

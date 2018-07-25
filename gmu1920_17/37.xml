@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/37</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/37</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/37/image20a.jpg</edm:preview>
+   <dcterms:subject>Railroad stations</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
+   <dcterms:title>African-American Woman with Baby in Railroad Yard, ca.1893</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>This photograph shows and African-American woman walking through a railroad yard carying her child on her back. A railroad car with coupling device is seen in foreground, while woman with child is in center-right part of the photo. Image faded to yellowish brown in center with faint yellow on left and right sides. A dark circular spot is on the photo in the center-left</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Southwestern United States Photograph Collection</dcterms:isPartOf>
+</mdRecord>

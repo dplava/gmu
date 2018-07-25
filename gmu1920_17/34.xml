@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/34</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/34</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/34/image17a.jpg</edm:preview>
+   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
+   <dcterms:title>African-American Men, Southwest United States, ca. 1893</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>This photograph shows Three African-American men posed for the camera (one is seated, the other two are standing) in front of a wooden building. Though the location is unknown, it is beleived to be in the American southwest (in either Texas, Arizona, or New Mexico) ca 1893. Two handmade signs behind them advertize "Spiced Pigs's Feet and Tripe", and "Finest Sugar Cured Meats". Image slightly faded to yellowish brown in center and faint yellow on left and right sides. A brownish spot is on the photo in the center</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Southwestern United States Photograph Collection</dcterms:isPartOf>
+</mdRecord>

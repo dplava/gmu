@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/20</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/20</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/20/image3.jpg</edm:preview>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:subject>Commerce</dcterms:subject>
+   <dcterms:spatial>New Orleans (La.)</dcterms:spatial>
+   <dcterms:temporal>Nineteenth century</dcterms:temporal>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
+   <dcterms:title>Man Reading Newspaper, Port of New Orleans, ca.1893</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>This photograph portrays a man (perhaps a longshoreman) on a pier at Port of New Orleans in New Orleans, Louisiana, ca 1893. Subject is seated on a sawhorse, reading a newspaper. Behind him are stacked bales of cotton Loose cotton can be seen on deck of pier. A series of buildings can be seen in the background. Overall image faded to yellowish brown with some marks in lower right and center left of the photo</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Southwestern United States Photograph Collection</dcterms:isPartOf>
+</mdRecord>
