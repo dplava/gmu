@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>gmu1920/8581</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/8581</edm:isShownAt>
+   <edm:preview>http://scrc.gmu.edu/img/DPLA/speaker.png</edm:preview>
+   <dcterms:created>1984-02-20</dcterms:created>
+   <dcterms:creator>George Mason University. Office of University Relations</dcterms:creator>
+   <dcterms:subject>Russians</dcterms:subject>
+   <dcterms:medium>Audiotapes</dcterms:medium>
+   <dcterms:medium>Sound recording</dcterms:medium>
+   <dcterms:medium>Talk shows</dcterms:medium>
+   <dcterms:extent>5", 1/4" tape</dcterms:extent>
+   <dcterms:extent>16 minutes, 20 seconds</dcterms:extent>
+   <dcterms:title>The Russian people: What are they really like?</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:description>Most of us feel that the lives of the people who live in the Soviet Union are very different from ours. Their educational system is different ; their lifestyle sounds different -- surely their expectations of life must also be different. Today on Frankly Speaking, Dr Leo Hecht  reflects on the ideas and feelings of the Russian people</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Sound</dcterms:type>
+   <dcterms:isPartOf>George Mason University "Frankly Speaking" radio show collection</dcterms:isPartOf>
+</mdRecord>
