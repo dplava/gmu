@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>1920/5788</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/5788</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5788/engraving_french_77.jpg</edm:preview>
+   <dcterms:created>1804</dcterms:created>
+   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject>le Peletier, Louis-Michel, marquis de Saint-Fargeau (1760-1793)</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:temporal>Eighteenth century</dcterms:temporal>
+   <dcterms:medium>Engravings</dcterms:medium>
+   <dcterms:title>Assassinat de le Pelletier, Maison de Février restauranteur Assassination of le Pelletier, restaurant Maison de Février</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>A man wearing a cloak and hat stabs another man, presumably le Peletier, while witnesses exclaim.  The action takes place in a plain room with long banquet tables around which people dine</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:language>fre</dcterms:language>
+   <dcterms:isPartOf>Broadus Bailey French Revolution Print Collection</dcterms:isPartOf>
+</mdRecord>
