@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>1920/5725</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/5725</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5725/engraving_french_17.jpg</edm:preview>
+   <dcterms:created>1804</dcterms:created>
+   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject>Bastille</dcterms:subject>
+   <dcterms:subject>Launey, Bernard René Jourdan, marquis de, 1740-1789</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:temporal>Eighteenth century</dcterms:temporal>
+   <dcterms:medium>Engravings</dcterms:medium>
+   <dcterms:title>Arrestation de Mr. De Launay, gouverneur de la Bastille Arrest of Mr. De Launay, governor of the Bastille</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>In the shadow of a large castle fortress and billowing smoke, a large group of armed men seize another man.  Several cannon and ammunition are shown in the foreground and there are a couple of white flags within the crowd</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:language>fre</dcterms:language>
+   <dcterms:isPartOf>Broadus Bailey French Revolution Print Collection</dcterms:isPartOf>
+</mdRecord>

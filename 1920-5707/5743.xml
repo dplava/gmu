@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>1920/5743</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/5743</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5743/engraving_french_33.jpg</edm:preview>
+   <dcterms:created>1804</dcterms:created>
+   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject>Commune de Paris (France : 1789-1794)</dcterms:subject>
+   <dcterms:subject>Nesham, Christopher John Williams, 1771-1853</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:temporal>Eighteenth century</dcterms:temporal>
+   <dcterms:medium>Engravings</dcterms:medium>
+   <dcterms:title>Le Commune de Paris décerne une épée et une couronne civique à C.J.W. Nesham anglais The commune of Paris bestows a sword of honor and civic crown to Englishman C.J.W. Nesham</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Men sitting along the sides of a hall watch a man in the center aisle receive something from men at a table in the middle of the hall</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:language>fre</dcterms:language>
+   <dcterms:isPartOf>Broadus Bailey French Revolution Print Collection</dcterms:isPartOf>
+</mdRecord>

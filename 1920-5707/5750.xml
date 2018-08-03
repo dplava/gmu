@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>1920/5750</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/5750</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5750/engraving_french_44.jpg</edm:preview>
+   <dcterms:created>1804</dcterms:created>
+   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject>Leopard (Warship)</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:temporal>Eighteenth century</dcterms:temporal>
+   <dcterms:medium>Engravings</dcterms:medium>
+   <dcterms:title>Port de Brest. Insurrection des vaisseaux de Léopard et l'America Port of Brest, insurrection of the vessels Leopard and America</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>A group of workers unload a wagon of supplies onto busy port with a church, several buildings, and two large ships. There are also smaller ships to transport troops to the larger ships</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:language>fre</dcterms:language>
+   <dcterms:isPartOf>Broadus Bailey French Revolution Print Collection</dcterms:isPartOf>
+</mdRecord>

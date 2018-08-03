@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>1920/5711</dcterms:identifier>
+   <edm:isShownAt>http://hdl.handle.net/1920/5711</edm:isShownAt>
+   <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5711/engraving_french_06.jpg</edm:preview>
+   <dcterms:created>1804</dcterms:created>
+   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject>Place de la Concorde (Paris, France)</dcterms:subject>
+   <dcterms:subject>Orléans, Louis Philippe Joseph, duc d', 1747-1793</dcterms:subject>
+   <dcterms:subject>Necker, Jacques, 1732-1804</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:temporal>Eighteenth century</dcterms:temporal>
+   <dcterms:medium>Engravings</dcterms:medium>
+   <dcterms:title>Les bustes de Mrs. d'Orléans et Necker portés a la Place Louis XV The busts of Duc d'Orléans and Necker carried to the Place Louis XV</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>A man on a horse in a sword fight with other men on the ground with swords and guns at the Place Louis XV</dcterms:description>
+   <dcterms:provenance>George Mason University Libraries Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:language>fre</dcterms:language>
+   <dcterms:isPartOf>Broadus Bailey French Revolution Print Collection</dcterms:isPartOf>
+</mdRecord>
