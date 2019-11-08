@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:identifier>GMU184441</dcterms:identifier>
+   <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMU~15~15~1509~184441</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMU~15~15/333/C0311B03F01P02_001.jpg</edm:preview>
+   <dcterms:created>1863</dcterms:created>
+   
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81089590">Fairfax (Va.)</dcterms:spatial>
+   <dcterms:medium>drawings (visual works)</dcterms:medium>
+   <dcterms:extent>7 x 4 1/2 in.</dcterms:extent>
+   <dcterms:title>Illustration of church near Fairfax Courthouse</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Illustration of church near Fairfax Courthouse.</dcterms:description>
+   <dcterms:provenance>George Mason University. Libraries. Special Collections Research Center</dcterms:provenance>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Randolph H. Lytton Historical Virginia collection</dcterms:isPartOf>
+</mdRecord>
