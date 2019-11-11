@@ -11,8 +11,8 @@
    <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps-23-NA/1074/C0222B01F04_01.jpg</edm:preview>
    <dcterms:created>1937-09-24</dcterms:created>
    <dcterms:creator>Flanagan, Hallie</dcterms:creator>
-   <dcterms:subject>Theater</dcterms:subject>
-   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85134522">Theater</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n78095330">United States</dcterms:spatial>
    <dcterms:temporal>New Deal, 1933-1939</dcterms:temporal>
    <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:extent>8.5 x 11 in</dcterms:extent>

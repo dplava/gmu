@@ -10,7 +10,7 @@
    <edm:isShownAt>http://hdl.handle.net/1920/7403</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/7403/30.jpg</edm:preview>
    <dcterms:created>1893</dcterms:created>
-   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/subjects/sh85125686">Southwestern States</dcterms:spatial>
    <dcterms:title>Mission Style Church, Southwest United States</dcterms:title>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:description>This photograph shows a Mission style church located on a main road somewhere in the Southwest. Two women are entering the church which is flanked by smaller buildings on either side</dcterms:description>

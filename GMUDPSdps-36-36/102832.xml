@@ -10,10 +10,10 @@
    <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~36~36~75957~102832</edm:isShownAt>
    <edm:preview>http://scrc.gmu.edu/img/DPLA/yearbook/1979_Yearbook.jpg</edm:preview>
    <dcterms:created>1979</dcterms:created>
-   <dcterms:creator>George Mason University</dcterms:creator>
-   <dcterms:subject>College yearbooks</dcterms:subject>
-   <dcterms:subject>George Mason University</dcterms:subject>
-   <dcterms:spatial>Fairfax County (Va.)</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n81002942">George Mason University</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85028415">College yearbooks</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n81002942">George Mason University</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79043615">Fairfax County (Va.)</dcterms:spatial>
    <dcterms:medium>Books</dcterms:medium>
    <dcterms:medium>Yearbooks</dcterms:medium>
    <dcterms:extent>9 2/8 in. x 6 2/8 in. x 5/8 in.</dcterms:extent>

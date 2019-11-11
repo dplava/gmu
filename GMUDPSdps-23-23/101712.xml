@@ -10,8 +10,8 @@
    <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~23~23~34831~101712</edm:isShownAt>
    <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps~23~23/120/C0229B07F06_01.jpg</edm:preview>
    <dcterms:created>1937-04</dcterms:created>
-   <dcterms:subject>Theater</dcterms:subject>
-   <dcterms:spatial>Miami (Fla.)</dcterms:spatial>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85134522">Theater</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81063248">Miami (Fla.)</dcterms:spatial>
    <dcterms:medium>Theater programs</dcterms:medium>
    <dcterms:extent>6 x 9 in</dcterms:extent>
    <dcterms:title>Their Annual Minstrel Show (Miami Business of Professional Women's Club),</dcterms:title>

@@ -10,9 +10,9 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5716</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5716/engraving_french_05.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Du Châtelet, Louis-Marie-Florent, duc, 1727-1793</dcterms:subject>
-   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/no91015354">Du Châtelet, Louis-Marie-Florent, duc, 1727-1793</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79006404">France</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Les gardes françaises sauvant Mr. Du Chatelet, leur colonel, de l'effervescence populaire</dcterms:title>

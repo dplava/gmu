@@ -10,7 +10,7 @@
    <edm:isShownAt>http://hdl.handle.net/1920/7406</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/7406/35.jpg</edm:preview>
    <dcterms:created>1893</dcterms:created>
-   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/subjects/sh85125686">Southwestern States</dcterms:spatial>
    <dcterms:title>Men and Women on Train Platform, United States</dcterms:title>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:description>This photograph shows men and women standing in front of a stopped train. Many of the men and women are well dressed and could be middle to upper class tourists A group of women stand in the foreground with several men behind them</dcterms:description>

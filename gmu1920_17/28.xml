@@ -10,7 +10,7 @@
    <edm:isShownAt>http://hdl.handle.net/1920/28</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/28/image11.jpg</edm:preview>
    <dcterms:created>1893</dcterms:created>
-   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/subjects/sh85125686">Southwestern States</dcterms:spatial>
    <dcterms:medium>Albumen prints</dcterms:medium>
    <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
    <dcterms:title>Desert Landscape and Village Scene, Location Unknown, ca. 1893</dcterms:title>

@@ -10,9 +10,9 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5769</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5769/engraving_french_61.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Simonneau, Jacques-Guillaume, d. 1792</dcterms:subject>
-   <dcterms:spatial>Étampes (France : Duchy)</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/nr94003434">Simonneau, Jacques-Guillaume,  -1792</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80014772">Étampes (France : Duchy)</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Pompe funèbre en l'honneur de Simoneau marie d'Éstampes</dcterms:title>

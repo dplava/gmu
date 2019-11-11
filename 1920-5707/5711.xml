@@ -10,11 +10,11 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5711</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5711/engraving_french_06.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Place de la Concorde (Paris, France)</dcterms:subject>
-   <dcterms:subject>Orléans, Louis Philippe Joseph, duc d', 1747-1793</dcterms:subject>
-   <dcterms:subject>Necker, Jacques, 1732-1804</dcterms:subject>
-   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85102557">Place de la Concorde (Paris, France)</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50059015">Orléans, Louis Philippe Joseph, duc d', 1747-1793</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79079293">Necker, Jacques, 1732-1804</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79006404">France</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Les bustes de Mrs. d'Orléans et Necker portés a la Place Louis XV</dcterms:title>

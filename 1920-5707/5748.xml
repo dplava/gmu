@@ -10,9 +10,9 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5748</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5748/engraving_french_42.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
    <dcterms:subject>Désille, Antoine-Joseph-Marc</dcterms:subject>
-   <dcterms:spatial>Nancy (France)</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79091171">Nancy (France)</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Affaire de Nancy. Mort de Désille</dcterms:title>

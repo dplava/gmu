@@ -10,9 +10,9 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5778</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5778/engraving_french_70.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</dcterms:subject>
-   <dcterms:spatial>Sedan (France)</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80038471">Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80131701">Sedan (France)</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Émigration de La Fayette du camp devant Sedan</dcterms:title>

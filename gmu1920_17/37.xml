@@ -9,8 +9,8 @@
    <dcterms:identifier>gmu1920/37</dcterms:identifier>
    <edm:isShownAt>http://hdl.handle.net/1920/37</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/37/image20a.jpg</edm:preview>
-   <dcterms:subject>Railroad stations</dcterms:subject>
-   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85111042">Railroad stations</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n78095330">United States</dcterms:spatial>
    <dcterms:medium>Albumen prints</dcterms:medium>
    <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
    <dcterms:title>African-American Woman with Baby in Railroad Yard, ca.1893</dcterms:title>

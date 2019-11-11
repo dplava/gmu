@@ -10,9 +10,9 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5779</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5779/engraving_french_71.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Beaurepaire, Nicolas, 1740-1792</dcterms:subject>
-   <dcterms:spatial>Verdun (France)</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n2007082925">Beaurepaire, Nicolas, 1740-1792</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n83068520">Verdun (France)</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Prise de Verdun, mort de Beaurepaire</dcterms:title>

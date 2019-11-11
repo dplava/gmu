@@ -10,7 +10,7 @@
    <edm:isShownAt>http://hdl.handle.net/1920/7408</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/7408/32.jpg</edm:preview>
    <dcterms:created>1893</dcterms:created>
-   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/subjects/sh85125686">Southwestern States</dcterms:spatial>
    <dcterms:title>Stopped Train Two Miles Above Sea Level, possibly Colorado</dcterms:title>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:description>In this photograph several passengers stand in front of a stopped train. The original caption for this photograph noted that the train was stopped two miles above sea level, possibly in the Colorado Mountains. A woman stands in the foreground of the picture while behind her several men look out over a cliff</dcterms:description>

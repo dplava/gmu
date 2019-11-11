@@ -10,7 +10,7 @@
    <edm:isShownAt>http://hdl.handle.net/1920/7409</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/7409/31.jpg</edm:preview>
    <dcterms:created>1893</dcterms:created>
-   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/subjects/sh85125686">Southwestern States</dcterms:spatial>
    <dcterms:title>Miracle Rock, Near the City of Grand Junction, Colorado</dcterms:title>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:description>This photograph taken from a horse drawn wagon, shows Colorado's Miracle Rock, a large sandstone boulder perched on a cliff</dcterms:description>

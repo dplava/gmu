@@ -10,8 +10,8 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5781</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5781/engraving_french_73.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:spatial>Speyer (Germany)</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80050034">Speyer (Germany)</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Prise de la ville de Spire</dcterms:title>

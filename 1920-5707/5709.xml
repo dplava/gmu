@@ -10,10 +10,10 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5709</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5709/engraving_french_03.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Desmoulins, Camille, 1760-1794</dcterms:subject>
-   <dcterms:subject>Palais-Royal (Paris, France)</dcterms:subject>
-   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n85242196">Desmoulins, Camille, 1760-1794</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50079445">Palais-Royal (Paris, France)</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79006404">France</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Motion faite au Palais Royal, par Camille Desmoulins</dcterms:title>

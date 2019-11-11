@@ -10,9 +10,9 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5768</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5768/engraving_french_60.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
    <dcterms:subject>Dillon, Théobald, 1745-1792</dcterms:subject>
-   <dcterms:spatial>Lille (France)</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80079461">Lille (France)</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Mort du Général Dillon dans la ville de Lille</dcterms:title>

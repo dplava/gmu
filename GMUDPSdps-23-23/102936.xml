@@ -11,10 +11,10 @@
    <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps-23-NA/1155/0001.jpg</edm:preview>
    <dcterms:created>1936/1941</dcterms:created>
    <dcterms:creator>Browne, Theodore</dcterms:creator>
-   <dcterms:subject>Actors</dcterms:subject>
-   <dcterms:subject>Theater</dcterms:subject>
-   <dcterms:subject>Federal Theatre Project (U.S.)</dcterms:subject>
-   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85000744">Actors</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85134522">Theater</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79118140">Federal Theatre Project (U.S.)</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n78095330">United States</dcterms:spatial>
    <dcterms:medium>Scrapbooks</dcterms:medium>
    <dcterms:extent>12 x 10.25 in</dcterms:extent>
    <dcterms:title>Scrapbook</dcterms:title>

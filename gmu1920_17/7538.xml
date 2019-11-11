@@ -9,7 +9,7 @@
    <dcterms:identifier>gmu1920/7538</dcterms:identifier>
    <edm:isShownAt>http://hdl.handle.net/1920/7538</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/7538/22.tif.jpg</edm:preview>
-   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/subjects/sh85125686">Southwestern States</dcterms:spatial>
    <dcterms:title>Street scene with Mexican-American Man, Southwest United States,  ca. 1893</dcterms:title>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:description>This photograph shows a young man posed on a street corner. Several other young men or children stand behind him. The building in the distance is labeled as an administrative building. Though the location is unknown, it is believed to be in the American southwest ca 1893 in either Texas, Arizona, or New Mexico</dcterms:description>

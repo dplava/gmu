@@ -10,9 +10,9 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5786</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5786/engraving_french_79.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Neerwinden, Battle of, Neerwinden, Belgium, 1793</dcterms:subject>
-   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85090615">Neerwinden, Battle of, Neerwinden, Belgium, 1793</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79006404">France</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Bataille de Nerwinde</dcterms:title>

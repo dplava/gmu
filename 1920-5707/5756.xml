@@ -10,8 +10,8 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5756</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5756/engraving_french_48.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:spatial>Vincennes (France)</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81075928">Vincennes (France)</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Affaire de Vincennes</dcterms:title>

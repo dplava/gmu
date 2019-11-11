@@ -10,7 +10,7 @@
    <edm:isShownAt>http://hdl.handle.net/1920/7405</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/7405/36.jpg</edm:preview>
    <dcterms:created>1893</dcterms:created>
-   <dcterms:spatial>Southwestern States</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/subjects/sh85125686">Southwestern States</dcterms:spatial>
    <dcterms:title>Train Employees in front of Large Building, United States</dcterms:title>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:description>In this photograph three African-American railroad employees stand in front of a large building, presumably the train station. Behind the men the train tracks are covered in snow, and a train has stopped on the furthest track from the camera</dcterms:description>

@@ -10,7 +10,7 @@
    <edm:isShownAt>http://hdl.handle.net/1920/29</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/29/Image12.jpg</edm:preview>
    <dcterms:created>1893</dcterms:created>
-   <dcterms:spatial>Arizona</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79034873">Arizona</dcterms:spatial>
    <dcterms:medium>Albumen prints</dcterms:medium>
    <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>
    <dcterms:title>San Xavier Hotel, Tucson, Arizona, ca. 1893</dcterms:title>

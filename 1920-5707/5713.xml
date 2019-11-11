@@ -10,10 +10,10 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5713</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5713/engraving_french_07.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Lambesc, Charles-Eugène de Lorraine, prince de, 1751-1823</dcterms:subject>
-   <dcterms:subject>Tuileries Palace (Paris, France)</dcterms:subject>
-   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/no2007033855">Lambesc, Charles-Eugène de Lorraine, prince de, 1751-1823</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh89003383">Tuileries Palace (Paris, France)</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79006404">France</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Mr. de Lambesc entrant aux Tuileries, avec un détachement de Royal-Allemand</dcterms:title>

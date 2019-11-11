@@ -9,7 +9,7 @@
    <dcterms:identifier>gmu1920/48</dcterms:identifier>
    <edm:isShownAt>http://hdl.handle.net/1920/48</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/48/image24.jpg</edm:preview>
-   <dcterms:subject>Architecture</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85006611">Architecture</dcterms:subject>
    <dcterms:temporal>Nineteenth century</dcterms:temporal>
    <dcterms:medium>Albumen prints</dcterms:medium>
    <dcterms:extent>3.9 in x 3.9 in (9.906 cm x 9.906 cm)</dcterms:extent>

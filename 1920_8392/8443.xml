@@ -10,8 +10,8 @@
    <edm:isShownAt>http://hdl.handle.net/1920/8443</edm:isShownAt>
    <edm:preview>http://scrc.gmu.edu/img/DPLA/speaker.png</edm:preview>
    <dcterms:created>1982-12-26</dcterms:created>
-   <dcterms:creator>George Mason University. Office of University Relations</dcterms:creator>
-   <dcterms:subject>Creationism</dcterms:subject>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/no2013015464">George Mason University. Office of University Relations</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85033830">Creationism</dcterms:subject>
    <dcterms:medium>Audiotapes</dcterms:medium>
    <dcterms:medium>Sound recording</dcterms:medium>
    <dcterms:medium>Talk shows</dcterms:medium>

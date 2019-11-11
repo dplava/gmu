@@ -10,10 +10,10 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5729</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5729/engraving_french_22.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Bastille</dcterms:subject>
-   <dcterms:subject>Fauchet, Claude, 1744-1793</dcterms:subject>
-   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50026425">Bastille</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n88006148">Fauchet, Claude, 1744-1793</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79006404">France</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Service funèbre des citoyens morts au siège de la Bastille, Discours prononce par l'abbé Fauchet</dcterms:title>

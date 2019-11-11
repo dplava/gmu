@@ -9,8 +9,8 @@
    <dcterms:identifier>GMU101701</dcterms:identifier>
    <edm:isShownAt>http://images.gmu.edu/luna/servlet/detail/GMUDPSdps~23~23~34786~101701</edm:isShownAt>
    <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size3/GMUDPSdps~23~23/120/C0229B04F33_04.jpg</edm:preview>
-   <dcterms:subject>Theater</dcterms:subject>
-   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85134522">Theater</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n78095330">United States</dcterms:spatial>
    <dcterms:medium>Playscripts</dcterms:medium>
    <dcterms:extent>8.5 x 11 in</dcterms:extent>
    <dcterms:title>Nancy Hanks, Bondswoman (script 4)</dcterms:title>

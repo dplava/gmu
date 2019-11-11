@@ -10,10 +10,10 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5725</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5725/engraving_french_17.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Bastille</dcterms:subject>
-   <dcterms:subject>Launey, Bernard René Jourdan, marquis de, 1740-1789</dcterms:subject>
-   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50026425">Bastille</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/nr97013227">Launey, Bernard René Jourdan, marquis de, 1740-1789</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79006404">France</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Arrestation de Mr. De Launay, gouverneur de la Bastille</dcterms:title>

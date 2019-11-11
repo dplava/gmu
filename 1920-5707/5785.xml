@@ -10,10 +10,10 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5785</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5785/engraving_french_78.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Louis XVI, King of France, 1754-1793</dcterms:subject>
-   <dcterms:subject>Place de la Concorde (Paris, France)</dcterms:subject>
-   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80038425">Louis XVI, King of France, 1754-1793</dcterms:subject>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85102557">Place de la Concorde (Paris, France)</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79006404">France</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Supplice de Louis XVI, Place de la Révolution</dcterms:title>

@@ -10,9 +10,9 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5732</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5732/engraving_french_25.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Besenval, Pierre-Victor, baron de, 1721-1791</dcterms:subject>
-   <dcterms:spatial>Brie-Comte-Robert (France)</dcterms:spatial>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n88642224">Besenval, Pierre-Victor, baron de, 1721-1791</dcterms:subject>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n87132055">Brie-Comte-Robert (France)</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Besenval conduit dans un vieux château fort, à Brie-Comte-Robert</dcterms:title>

@@ -10,10 +10,10 @@
    <edm:isShownAt>http://hdl.handle.net/1920/5743</edm:isShownAt>
    <edm:preview>http://mars.gmu.edu/bitstream/handle/1920/5743/engraving_french_33.jpg</edm:preview>
    <dcterms:created>1804</dcterms:created>
-   <dcterms:creator>Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
-   <dcterms:subject>Commune de Paris (France : 1789-1794)</dcterms:subject>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/n97874079">Berthault, Pierre Gabriel, 1737-1831</dcterms:creator>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50052278">Commune de Paris (France : 1789-1794)</dcterms:subject>
    <dcterms:subject>Nesham, Christopher John Williams, 1771-1853</dcterms:subject>
-   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79006404">France</dcterms:spatial>
    <dcterms:temporal>Eighteenth century</dcterms:temporal>
    <dcterms:medium>Engravings</dcterms:medium>
    <dcterms:title>Le Commune de Paris décerne une épée et une couronne civique à C.J.W. Nesham anglais</dcterms:title>
