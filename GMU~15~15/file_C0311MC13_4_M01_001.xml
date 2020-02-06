@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:edm="http://www.europeana.eu/schemas/edm/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:identifier>C0311MC13_4_M01_001</dcterms:identifier>
+   <edm:isShownAt>http://images.gmu.edu//luna/servlet/detail/GMU~15~15~1545~184452</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size1/GMU~15~15/333/C0311MC13_4_M01_001.jpg</edm:preview>
+   <dcterms:created>1670</dcterms:created>
+   <dcterms:medium>cartographic materials</dcterms:medium>
+   <dcterms:extent>14 x 12 in.</dcterms:extent>
+   <dcterms:title>Map of Yorkshire</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Map of Yorkshire created by Richard Blome.</dcterms:description>
+   <dcterms:provenance>George Mason University. Libraries. Special Collections Research
+      Center</dcterms:provenance>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:spatial>Yorkshire (England)</dcterms:spatial>
+   <dcterms:spatial>Yorkshire (England)</dcterms:spatial>
+   <dcterms:isPartOf>Randolph H. Lytton Historical Virginia collection</dcterms:isPartOf>
+</mdRecord>

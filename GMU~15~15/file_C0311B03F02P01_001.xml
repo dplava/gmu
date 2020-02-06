@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:edm="http://www.europeana.eu/schemas/edm/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:identifier>C0311B03F02P01_001</dcterms:identifier>
+   <edm:isShownAt>http://images.gmu.edu//luna/servlet/detail/GMU~15~15~1581~184439</edm:isShownAt>
+   <edm:preview>http://images.gmu.edu/MediaManager/srvr?mediafile=/Size1/GMU~15~15/333/C0311B03F02P01_001.jpg</edm:preview>
+   <dcterms:created>1862</dcterms:created>
+   <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85140205">United
+      States--History--Civil War, 1861-1865</dcterms:subject>
+   <dcterms:medium>photographs</dcterms:medium>
+   <dcterms:extent>4 x 2 1/2 in.</dcterms:extent>
+   <dcterms:title>Photograph of Fairfax Courthouse 1</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Photograph of Fairfax Courthouse taken by Mathew
+      Brady.</dcterms:description>
+   <dcterms:provenance>George Mason University. Libraries. Special Collections Research
+      Center</dcterms:provenance>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:spatial>Fairfax (Va.)</dcterms:spatial>
+   <dcterms:spatial>Fairfax (Va.)</dcterms:spatial>
+   <dcterms:isPartOf>Randolph H. Lytton Historical Virginia collection</dcterms:isPartOf>
+</mdRecord>
