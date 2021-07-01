@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>C0153_B029Rhodes_i_1977-05-10</dcterms:identifier>
+   <edm:isShownAt>https://vwpa.gmu.edu/audiocollection/detail/C0153_B029Rhodes_i_1977-05-10/</edm:isShownAt>
+   <edm:preview>http://scrc.gmu.edu/img/DPLA/speaker.png</edm:preview>
+   <dcterms:created>1977-05-10</dcterms:created>
+   <dcterms:creator>Rhodes, Irwin</dcterms:creator>
+   <dcterms:creator>Brown, Lorraine</dcterms:creator>
+   <dcterms:subject>Theatrical managers</dcterms:subject>
+   <dcterms:subject>Federal Theatre Project, New York, N.Y.</dcterms:subject>
+   <dcterms:medium>oral histories (literary works)</dcterms:medium>
+   <dcterms:extent>40 min.</dcterms:extent>
+   <dcterms:title>Oral history interview with Irwin Rhodes, May 10, 1977</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:provenance>George Mason University Libraries</dcterms:provenance>
+   <dcterms:type>Sound</dcterms:type>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>Works Progress Administration oral histories collection</dcterms:isPartOf>
+</mdRecord>
