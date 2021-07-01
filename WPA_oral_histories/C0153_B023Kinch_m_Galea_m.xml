@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>C0153_B023Kinch_m_Galea_m</dcterms:identifier>
+   <edm:isShownAt>https://vwpa.gmu.edu/audiocollection/detail/C0153_B023Kinch_m_Galea_m/</edm:isShownAt>
+   <edm:preview>http://scrc.gmu.edu/img/DPLA/speaker.png</edm:preview>
+   <dcterms:created>1976-02-21</dcterms:created>
+   <dcterms:creator>Kinch, Myra and Manuel Galea</dcterms:creator>
+   <dcterms:creator>Bowers, Diane</dcterms:creator>
+   <dcterms:subject>Choreographers</dcterms:subject>
+   <dcterms:subject>Dancers</dcterms:subject>
+   <dcterms:subject>Federal Theatre Project, Los Angeles, Cal.</dcterms:subject>
+   <dcterms:medium>oral histories (literary works)</dcterms:medium>
+   <dcterms:extent>90 min.</dcterms:extent>
+   <dcterms:title>Oral history interview with Myra Kinch and Manuel Galea</dcterms:title>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:provenance>George Mason University Libraries</dcterms:provenance>
+   <dcterms:type>Sound</dcterms:type>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>Works Progress Administration oral histories collection</dcterms:isPartOf>
+</mdRecord>
